@@ -1,4 +1,4 @@
 def main():
-    print("I HATE NIGGERSss")
+    print("I HATE NIGGERSsss")
 
 main()
